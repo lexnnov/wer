@@ -1,140 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bcf87262-7909-4bd5-acff-2682c95a6270" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/desktop_client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libp2p-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/.aegir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/MGMT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/appveyor.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/ci/Jenkinsfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/circle.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/src/dialer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/src/libp2p-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/src/listener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/src/peer-id-dialer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/chat/src/peer-id-listener.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/discovery-mechanisms/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/discovery-mechanisms/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/discovery-mechanisms/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/src/dialer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/src/id-d.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/src/id-l.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/src/libp2p-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/echo/src/listener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/encrypted-communications/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/encrypted-communications/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/src/browser-bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/src/create-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/1/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/libp2p-in-the-browser/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/nat-traversal/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/peer-and-content-routing/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/peer-and-content-routing/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/peer-and-content-routing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/protocol-and-stream-muxing/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/protocol-and-stream-muxing/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/protocol-and-stream-muxing/3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/protocol-and-stream-muxing/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/pubsub/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/pubsub/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/transports/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/transports/2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/transports/3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/examples/transports/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/img/js-libp2p-ipfs-browser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/img/js-libp2p-ipfs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/img/js-libp2p.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/img/libp2p-arch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/img/libp2p-logos.sketch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-1--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-1--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-2--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-2--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-3--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-3--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-3--peer-c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-4--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-4--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-4--peer-c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-4--peer-d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-4--peer-e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-5--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-5--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-5--peer-c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-5--peer-d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-the-ipfs-bundle--story-5--peer-e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-1--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-1--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-2--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-2--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-3--peer-a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/pdd/pdd-transport--story-3--peer-b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/content-routing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/dht.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/error-messages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/get-peer-info.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/peer-routing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/src/pubsub.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/circuit-relay.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/config.spec.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/content-routing.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/fixtures/test-data/test-id.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/fixtures/test-peer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/multiaddr-trim.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/peer-discovery.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/peer-routing.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/pubsub.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/stats.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/stream-muxing.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/transports.browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/transports.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/turbolence.node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/utils/bundle-browser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/utils/bundle-nodejs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/utils/create-node.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/utils/echo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/libs/js-libp2p/test/utils/try-echo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/core/messaging/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chat/dialer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/chat/dialer.js" afterDir="false" />
-    </list>
+    <list default="true" id="bcf87262-7909-4bd5-acff-2682c95a6270" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -242,7 +109,7 @@
               <item name="desktop_client" type="b2602c69:ProjectViewProjectNode" />
               <item name="desktop_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chat" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,12 +147,20 @@
       <option name="presentableId" value="Default" />
       <updated>1531141433385</updated>
       <workItem from="1531141435065" duration="617000" />
-      <workItem from="1531745303092" duration="633000" />
+      <workItem from="1531745303092" duration="1167000" />
     </task>
+    <task id="LOCAL-00001" summary="Start using the core">
+      <created>1531746006948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531746006948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1250000" />
+    <option name="totallyTimeSpent" value="1784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
@@ -296,9 +171,9 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32912722" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -318,6 +193,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start using the core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start using the core" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">

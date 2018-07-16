@@ -1,3 +1,4 @@
 # Node.js package manager
 node_modules
 src/chat/
+.idea
